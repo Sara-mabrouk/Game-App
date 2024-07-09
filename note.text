@@ -1,0 +1,47 @@
+** eh el fr2 ben 
+        ====>> const category = link.dataset.category
+        ====>const category = link.getAttribute("data-category");
+
+
+
+// const url = 'https://free-to-play-games-database.p.rapidapi.com/api/games?category=shooter';
+// const options = {
+// 	method: 'GET',
+// 	headers: {
+// 		'x-rapidapi-key': '1777d17cfdmsh9d6298fdeb604f7p1a2268jsnf1593b1aaf6b',
+// 		'x-rapidapi-host': 'free-to-play-games-database.p.rapidapi.com'
+// 	}
+// };
+
+// try {
+// 	const response = await fetch(url, options);
+// 	const result = await response.text();
+// 	console.log(result);
+// } catch (error) {
+// 	console.error(error);
+// }
+
+
+
+***    displayGames(data)
+
+
+
+
+
+    // const url = 'https://free-to-play-games-database.p.rapidapi.com/api/game?id=452';
+// const options = {
+// 	method: 'GET',
+// 	headers: {
+// 		'x-rapidapi-key': '1777d17cfdmsh9d6298fdeb604f7p1a2268jsnf1593b1aaf6b',
+// 		'x-rapidapi-host': 'free-to-play-games-database.p.rapidapi.com'
+// 	}
+// };
+
+// try {
+// 	const response = await fetch(url, options);
+// 	const result = await response.text();
+// 	console.log(result);
+// } catch (error) {
+// 	console.error(error);
+// }
